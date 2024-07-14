@@ -1,5 +1,27 @@
 # AngularHomesApp
 
+Angular tutorial using Angular 18
+This app follows tutorial provided by Angular team at Angular.io
+Difference is
+
+- Angular 18 not 15
+- Angular CLI used to generate project
+- Template URL used instead of inline templates
+- Assets and styling from Angular Team
+
+start project
+ng new angular-homes-app --routing false
+
+Assets from code
+https://goo.gle/homes-app-start
+
+App styles
+https://goo.gle/homes-app-styles
+App data
+https://goo.gle/homes-app-listings
+
+Thanks to Angular team and Mark Thompson for a great tutorial.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.7.
 
 ## Development server
